@@ -2,7 +2,7 @@
 */migrations/*
 
 
-Virtual/
+/Virtual/
 *.log
 *.pot
 *.pyc
